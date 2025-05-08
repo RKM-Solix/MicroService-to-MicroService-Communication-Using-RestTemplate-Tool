@@ -1,0 +1,9 @@
+[submodule "CustomerApp"]
+	path = CustomerApp
+	url = https://github.com/RKM-Solix/CustomerApp
+[submodule "FriendApp"]
+	path = FriendApp
+	url = https://github.com/RKM-Solix/FriendApp
+[submodule "PlanApp"]
+	path = PlanApp
+	url = https://github.com/RKM-Solix/PlanApp
